@@ -4,9 +4,7 @@
 
 I'm **Angelique Weger**, and I'm keen on solving problems with code + teaching others to do the same.
 
-I currently help build courseware for [Lumen Learning](https://lumenlearning.com/), where we want to enable unprecedented learning for all students. My focus is on front-end code, accessibility, and growing the best possible team for this task.
-
-I also teach front-end web development at [MICA](https://mica.edu) in their graphic design department.
+I currently work as an engineering manager and also teach front-end web development at [MICA](https://mica.edu) in their graphic design department.
 
 ### About me
 - 👉🏻 &nbsp;&nbsp;My pronouns are she/her.
