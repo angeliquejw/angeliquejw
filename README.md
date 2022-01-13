@@ -9,7 +9,7 @@ I currently work as an engineering manager and also teach front-end web developm
 ### About me
 - 👉🏻 &nbsp;&nbsp;My pronouns are she/her.
 - 💖 &nbsp;&nbsp;In 2021, I still love Sass.
-- 🌮 &nbsp;&nbsp;I deeply love tacos and once at at least a taco a day for a whole month ([#SpringIntoTacos](https://www.instagram.com/explore/tags/springintotacos/) chronicles this adventure on Instagram).
+- 🌮 &nbsp;&nbsp;I deeply love tacos and once at at least a taco a day for a whole month.
 
 
 ### Find me elsewhere
