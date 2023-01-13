@@ -8,15 +8,14 @@ I currently work as an engineering manager and also teach front-end web developm
 
 ### About me
 - 👉🏻 &nbsp;&nbsp;My pronouns are she/her.
-- 💖 &nbsp;&nbsp;In 2021, I still love Sass.
 - 🌮 &nbsp;&nbsp;I deeply love tacos and once at at least a taco a day for a whole month.
 
 
 ### Find me elsewhere
+[Blog](http://angeliqueweger.com/)
+
 [![LinkedIn](https://img.shields.io/twitter/url?color=%232877B5&label=LinkedIn&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fin%2Fangeliqueweger)](https://linkedin.com/in/angeliqueweger)
-[![Twitter](https://img.shields.io/twitter/url?color=%2338A1F2&label=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fmessypixels)](https://twitter.com/messypixels)
-<!-- [![Instagram](https://img.shields.io/twitter/url?color=%23DD326F&label=Instagram&style=flat-square&url=https%3A%2F%2Finstagram.com%2Fmessypixels)](https://instagram.com/messypixels)
- -->
+
 <!--
 **angeliquejw/angeliquejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
