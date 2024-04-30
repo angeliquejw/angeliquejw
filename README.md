@@ -4,17 +4,20 @@
 
 I'm **Angelique Weger**, and I'm keen on solving problems with code + teaching others to do the same.
 
-I currently work as an engineering manager and also teach front-end web development at [MICA](https://mica.edu) in their graphic design department.
+I work for the state of Maryland 🦀 and am currently am working on the digital services team building out the tools and services for paid family and medical leave. 🎉
+
+I previously taught front-end web development at [MICA](https://mica.edu).
 
 ### About me
-- 👉🏻 &nbsp;&nbsp;My pronouns are she/her.
-- 🌮 &nbsp;&nbsp;I deeply love tacos and once at at least a taco a day for a whole month.
+👉🏻 &nbsp;&nbsp;My pronouns are she/her.
+
+🌮 &nbsp;&nbsp;I deeply love tacos and once ate at least a taco a day for a whole month.
 
 
 ### Find me elsewhere
-[Blog](http://angeliqueweger.com/)
+✍️ [Blog](http://angeliqueweger.com/)
 
-[![LinkedIn](https://img.shields.io/twitter/url?color=%232877B5&label=LinkedIn&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fin%2Fangeliqueweger)](https://linkedin.com/in/angeliqueweger)
+💼 [LinkedIn](https://linkedin.com/in/angeliqueweger)
 
 <!--
 **angeliquejw/angeliquejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- [Blog](http://angeliqueweger.com/) -->
